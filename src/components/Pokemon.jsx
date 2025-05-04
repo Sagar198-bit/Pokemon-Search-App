@@ -52,7 +52,7 @@ function Pokemon() {
       <div className="m-4">
         <input
           onChange={(event) => setsearch(event.target.value)}
-          className="w-[400px] relative right-2 font-semibold border rounded-full
+          className="md:w-[400px] w-[200px] relative right-2 font-semibold border rounded-full
       
 Save Changes outline-none border-black py-2 px-5"
           type="text"
