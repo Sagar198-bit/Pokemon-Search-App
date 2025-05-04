@@ -1,6 +1,4 @@
 function PokeMoncard({ pokemonedata }) {
-  
-
   return (
     <div className=" h-[100%] p-1 bg-transparent">
       <ul className=" p-5 grid md:grid-cols-4  grid-cols-1 auto-rows-auto  gap-y-5 place-items-center text-black w-screen bg-white">
